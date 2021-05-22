@@ -8,14 +8,14 @@
 
 ### The steps:
 
-1.Exploring the data
-2.Preprocessing the data 
-3.Shuffle and split the data 
-4.Using different algorithms "AdaBoostClassifierLogisticRegression-SVC" 
-5.Model Evaluation
-6.Choosing the Best Model 
-7.Model Tuning, using Gridsearch 
-8.Extracting Feature Importance 
+1. Exploring the data
+2. Preprocessing the data 
+3. Shuffle and split the data 
+4. Using different algorithms "AdaBoostClassifierLogisticRegression-SVC" 
+5. Model Evaluation
+6. Choosing the Best Model 
+7. Model Tuning, using Gridsearch 
+8. Extracting Feature Importance 
 
 ### Install
 

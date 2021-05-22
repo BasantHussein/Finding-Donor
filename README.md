@@ -2,7 +2,7 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
-### About
+### Introduction
 
 • Finding donors for charity according to  the range of their salaries 
 
